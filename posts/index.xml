@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on VORTEX HACKWORKS</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on VORTEX HACKWORKS</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Tue, 08 Jul 2025 20:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Selamat Datang di VORTEX HACKWORKS</title>
+      <link>http://localhost:1313/posts/selamat-datang/</link>
+      <pubDate>Tue, 08 Jul 2025 20:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/selamat-datang/</guid>
+      <description>&lt;h2 id=&#34;-solid-in-steel-smart-in-code&#34;&gt;🔧 Solid in Steel. Smart in Code.&lt;/h2&gt;&#xA;&lt;p&gt;Selamat datang di &lt;strong&gt;VORTEX HACKWORKS&lt;/strong&gt;, tempat di mana kekuatan baja dan kecerdasan digital bersatu membentuk masa depan.&lt;br&gt;&#xA;Kami bukan sekadar bengkel atau kontraktor — kami adalah &lt;strong&gt;arsitek dunia baru&lt;/strong&gt;. Kami bangun kontainer jadi ruang hidup, kantor, cafe, hingga solusi logistik berat. Dan di balik layar, kami kuasai teknologi.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Kami percaya dunia ini bisa dibentuk ulang — satu kontainer, satu baris kode, satu gebrakan gila dalam berpikir.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Halo dari VORTEX!</title>
+      <link>http://localhost:1313/posts/halo-vortex/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/halo-vortex/</guid>
+      <description>&lt;p&gt;Selamat datang di website resmi &lt;strong&gt;VORTEX HACKWORKS&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Kami adalah gabungan &lt;strong&gt;teknologi &amp;amp; konstruksi&lt;/strong&gt;, membangun dari kontainer hingga koneksi.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Build. Hack. Expand.&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
