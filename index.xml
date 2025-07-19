@@ -6,8 +6,22 @@
     <description>Recent content on VORTEX HACKWORKS</description>
     <generator>Hugo</generator>
     <language>id</language>
-    <lastBuildDate>Tue, 08 Jul 2025 20:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 21:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tentang Kami</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 19 Jul 2025 21:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;vortex-hackworks&#34;&gt;VORTEX HACKWORKS&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Solid in Steel, Smart in Code.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kami adalah gabungan kekuatan &lt;strong&gt;konstruksi keras&lt;/strong&gt; dan &lt;strong&gt;inovasi teknologi digital&lt;/strong&gt;.&lt;br&gt;&#xA;Berawal dari industri kontainer dan logistik, kami berkembang menjadi penyedia solusi menyeluruh: dari baja hingga baris kode.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-layanan-kami&#34;&gt;⚙️ Layanan Kami:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Repair &amp;amp; Modifikasi Kontainer&lt;/li&gt;&#xA;&lt;li&gt;Portacamp, Office, dan Tanki Kontainer&lt;/li&gt;&#xA;&lt;li&gt;Trailer 20ft &amp;amp; 40ft, Wingbox&lt;/li&gt;&#xA;&lt;li&gt;Karesori Custom&lt;/li&gt;&#xA;&lt;li&gt;Moodbox (modul rakit)&lt;/li&gt;&#xA;&lt;li&gt;Pemipaan, Anoda Tanki, dan Konstruksi Baja&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sistem Digitalisasi Industri&lt;/strong&gt;&lt;br&gt;&#xA;(Monitoring, Otomasi, &amp;amp; Integrasi Teknologi)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Kami tidak hanya membangun fisik — kami membentuk &lt;strong&gt;ekosistem kerja cerdas&lt;/strong&gt;, dengan teknologi berbasis &lt;strong&gt;web, sensor, dan otomasi industri&lt;/strong&gt;.&lt;br&gt;&#xA;Cocok untuk perusahaan skala besar, proyek terpencil, hingga transformasi digital fasilitas logistik.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello Vortex</title>
+      <link>http://localhost:1313/posts/hello-vortex/</link>
+      <pubDate>Tue, 08 Jul 2025 14:18:59 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-vortex/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Selamat Datang di VORTEX HACKWORKS</title>
       <link>http://localhost:1313/posts/selamat-datang/</link>
